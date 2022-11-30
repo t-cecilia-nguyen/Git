@@ -6,4 +6,6 @@ Testing how to use Git and GitHub
 
 Hello testing! :)
 
-More Text.
+## Local Development
+
+1. Open index.html in your browser!
